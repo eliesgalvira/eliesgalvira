@@ -1,7 +1,7 @@
 ### Hello, I'm Elies 👋
 
 - 📡 Currently studying for a Bachelor's degree in Telecommunications Engineering at [UPC Barcelona Campus Nord](https://telecos.upc.edu/en?set_language=en)!
-- 🚀 Building stuff for fun! Currently developing [www.signaltransform.net](https://www.signaltransform.net)
+- 🚀 Building stuff for fun! You can see some on my portfolio website [elies.site](https://www.elies.site)
 - 📖 Learning coding theory and information theory for my Bachelor's thesis
 - 📣 Reach out to me on [Linkedin](https://www.linkedin.com/in/elies-garcia-alvira/).
 
